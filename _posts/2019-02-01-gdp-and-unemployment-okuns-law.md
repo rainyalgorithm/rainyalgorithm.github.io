@@ -1,5 +1,6 @@
 ---
-title: GDP and unemployment in India
+layout: post
+title: "GDP and unemployment in India"
 author: Vikas Dhiman
 ---
 
