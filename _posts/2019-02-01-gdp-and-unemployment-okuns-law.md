@@ -113,13 +113,16 @@ USA Okun's coefficient has increased from -0.7 to -0.4 with a rapid shift in 199
 
 ![Rolling regression estimates](/assets/media/20190202_022312_l2Phs3.png){:standalone}
 
+The phenomena has also been recognized in [South Africa][ecnomictimes]. World
+Bank released a special report on South Asia focusing on [jobless growth][worldbank]
+
+
 ## Jobless manufacturing growth in Indian 1980-90 version
 
 There is consensus among scholars that Indian manufacturing sector showed a
 period of jobless growth of 8.66% with an annual employment growth of
 [0.53%][indiaenvironmentalportal.org.in]. The problem of jobless growth is being
-discussed in [epw.in][epw-engage] since 2015.
-
+discussed in [epw.in][epw-engage] since 2015. 
 # References
 
 [okuns2018May22okuns]: https://web.archive.org/web/20190201/https://www.investopedia.com/articles/economics/12/okuns-law.asp
@@ -174,3 +177,9 @@ and the Taylor Rule?
 
 [epw-engage]: https://www.epw.in/engage/article/unemployment-jobs-growth-india
 * [17][epw-engage] The Unemployment Paradox: Looking at Growth Without Jobs. By EPW Engage. Accessed 2019 Feb 01.
+
+[ecnomictimes]: https://www.economist.com/special-report/2010/06/03/jobless-growth
+* [18][ecnomictimes] The economist: Jobless growth.
+
+[worldbank]: https://openknowledge.worldbank.org/bitstream/handle/10986/29650/9781464812842.pdf?sequence=4&isAllowed=y
+* [19][worldbank] Jobless growth: Special issue on South Asia 2018.
