@@ -1,4 +1,9 @@
-theme: jekyll-theme-slate
-title: Some thoughts about life, society and science.
+theme: minima
+title: Some thoughts about life, society, economics and science.
 description: This site is meant to be anonymous for the time being.
 repository: rainyalgorithm/rainyalgorithm.github.io
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+paginate: 3

@@ -1,0 +1,11 @@
+---
+---
+@import  "{{ site.theme }}";
+
+figure > img {
+    margin: auto;
+}
+
+figure > figcaption {
+    text-align: center;
+}
